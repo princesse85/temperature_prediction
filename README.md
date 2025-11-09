@@ -1,1 +1,1 @@
-temperature_prediction
+temperature_prediction_pipeline
